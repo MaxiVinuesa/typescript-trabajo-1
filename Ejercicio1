@@ -1,0 +1,5 @@
+RESOLUCIÓN EJERCICIO N°1
+
+1) Las reglas que tiene TypeScript es que cada tipo de dato a diferencia de JavaScript debe especificarse como number, string, boolean, etc
+
+2) Algunas cosas "mejores" que puede tener el lenguaje es que mantiene las ventajas de JavaScript agregándole algunas restricciones para mantener una mayor lectura y una mayor estructuración del tipado. 
